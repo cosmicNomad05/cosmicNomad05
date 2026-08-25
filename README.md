@@ -8,7 +8,7 @@
 
 **Information Science & Engineering Student**
 
-`AI/ML` · `Backend` · `Cloud` · `Cybersecurity` · `Software Systems`
+`AI/ML` · `Backend` · `Cloud`  · `Software Systems`
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## `01 // SYSTEM_INIT`
+## `SYSTEM_INIT`
 
 ```text
 > booting developer profile...
@@ -41,61 +41,24 @@ VERSION : 2026
 ```
 
 I’m an Information Science & Engineering student interested in building **intelligent, practical, and reliable software systems**.
-
 My interests span **Artificial Intelligence, Machine Learning, backend engineering, cloud computing, and data-driven applications**.
-
 I learn by building real projects, experimenting with different approaches, understanding what breaks, and iterating toward better solutions.
 
-> **BUILD → BREAK → LEARN → REBUILD**
-
----
-
-## `02 // CURRENT_VECTOR`
-
-```text
-                    ┌─────────────┐
-                    │   PROBLEM   │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │    DATA     │
-                    └──────┬──────┘
-                           ↓
-                 ┌───────────────────┐
-                 │   INTELLIGENCE    │
-                 └─────────┬─────────┘
-                           ↓
-                    ┌─────────────┐
-                    │     CODE    │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │    SYSTEM   │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │   DEPLOY    │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │   ITERATE   │
-                    └─────────────┘
-```
 
 ### Areas I'm Exploring
 
-| Domain          | Focus                                                       |
-| --------------- | ----------------------------------------------------------- |
-| 🤖 **AI / ML**  | Machine Learning, Deep Learning, Computer Vision, NLP       |
-| ⚙️ **Backend**  | APIs, application logic, databases, server-side development |
-| ☁️ **Cloud**    | Deployment, infrastructure, scalable applications           |
-| 🔐 **Security** | Cybersecurity fundamentals and secure systems               |
-| 📊 **Data**     | Data analysis, visualization, and predictive modelling      |
-| 🧩 **Systems**  | Software architecture and system design                     |
+| Domain          | Focus                                                                  |
+| --------------- | -----------------------------------------------------------            |
+| 🤖 **AI / ML**  | Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI     |
+| ⚙️ **Backend**  | APIs, application logic, databases, server-side development           |
+| ☁️ **Cloud**    | Deployment, infrastructure, scalable applications                     |
+| 🔐 **Security** | Cybersecurity fundamentals and secure systems                         |
+| 📊 **Data**     | Data analysis, visualization, and predictive modelling                |
+| 🧩 **Systems**  | Software architecture and system design                               |
 
 ---
 
-## `03 // TECH_STACK`
+## `TECH_STACK`
 
 ### Languages
 
@@ -129,7 +92,7 @@ I learn by building real projects, experimenting with different approaches, unde
 
 ---
 
-## `04 // SELECTED_BUILDS`
+## `SELECTED_BUILDS`
 
 ### 🏥 [IntelliCareSync](https://github.com/cosmicNomad05/IntelliCareSync)
 
@@ -171,44 +134,6 @@ A computer-vision project exploring image-based yoga pose recognition using mach
 
 ---
 
-### 💻 [Portfolio](https://github.com/cosmicNomad05/Portfolio)
-
-A personal portfolio website presenting projects, skills, and technical work.
-
-**Stack:** `HTML` · `CSS` · `JavaScript`
-
----
-
-## `05 // ENGINEERING_LOGIC`
-
-```text
-              ┌─────────────────┐
-              │     OBSERVE     │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │     EXPLORE     │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │      BUILD      │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │      TEST       │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │     ITERATE     │
-              └────────┬────────┘
-                       │
-                       └───────────────↺
-```
-
 I’m particularly interested in the relationship between individual technologies and the larger systems they form.
 
 **A model is useful.
@@ -225,8 +150,8 @@ System design makes it sustainable.**
 AI / MACHINE LEARNING    ████████████████░░░░
 BACKEND ENGINEERING      ███████████████░░░░░
 CLOUD COMPUTING          ████████████░░░░░░░
-CYBERSECURITY            ███████████░░░░░░░░
 SYSTEM DESIGN            █████████░░░░░░░░░░
+CYBERSECURITY            █████░░░░░░░░░░░░░░
 ```
 
 > Progress is iterative, not linear.
@@ -262,7 +187,7 @@ SYSTEM DESIGN            █████████░░░░░░░░░�
 │  → Building practical AI applications       │
 │  → Improving backend development             │
 │  → Exploring cloud technologies              │
-│  → Learning cybersecurity concepts           │
+│  → Learning cybersecurity fundamentals           │
 │  → Practicing problem solving & algorithms   │
 │  → Understanding system design               │
 │                                              │
@@ -291,10 +216,7 @@ SYSTEM DESIGN            █████████░░░░░░░░░�
 
 ```text
 SYSTEM_01
-
-DESIGN.
-BUILD.
-ITERATE.
+DESIGN. BUILD. ITERATE.
 
 STATUS: ONLINE_
 ```
