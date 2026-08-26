@@ -144,59 +144,7 @@ System design makes it sustainable.**
 
 ---
 
-## `06 // LEARNING_VECTOR`
-
-```text
-AI / MACHINE LEARNING    ████████████████░░░░
-BACKEND ENGINEERING      ███████████████░░░░░
-CLOUD COMPUTING          ████████████░░░░░░░
-SYSTEM DESIGN            █████████░░░░░░░░░░
-CYBERSECURITY            █████░░░░░░░░░░░░░░
-```
-
-> Progress is iterative, not linear.
-
----
-
-## `07 // GITHUB_TELEMETRY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cosmicNomad05&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicNomad05&layout=compact&hide_border=true&theme=transparent" height="170">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=cosmicNomad05&hide_border=true&theme=transparent" height="170">
-
-</div>
-
----
-
-## `08 // CURRENTLY_EXPLORING`
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  → Strengthening ML fundamentals             │
-│  → Building practical AI applications       │
-│  → Improving backend development             │
-│  → Exploring cloud technologies              │
-│  → Learning cybersecurity fundamentals           │
-│  → Practicing problem solving & algorithms   │
-│  → Understanding system design               │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-## `09 // CONNECT`
+## `CONNECT`
 
 <div align="center">
 
