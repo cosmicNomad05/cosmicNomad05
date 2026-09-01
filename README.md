@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Veeksha V N — Controlled Chaos" width="100%" />
+<img src="assets/CONTROLLED CHAOS 1.png" alt="Veeksha V N — Controlled Chaos" width="100%" />
 
 </div>
 
