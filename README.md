@@ -231,4 +231,3 @@ STATUS: ONLINE_
 <p align="center">
 <sub>© 2026 Veeksha V N · cosmicNomad05</sub>
 </p>
-```
