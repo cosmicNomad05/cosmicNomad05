@@ -63,8 +63,8 @@ $ whoami
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-60A5FA?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" />
-<img src="https://shields.io/badge/CSS3-60A5FA?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" />
-<img src="https://shields.io" alt="CSS3 Logo" />
+<img src="https://img.shields.io/badge/CSS3-60A5FA?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" />
+
 </p>
 
 ### AI / Machine Learning
