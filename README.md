@@ -63,7 +63,8 @@ $ whoami
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-60A5FA?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CSS3-60A5FA?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" />
+<img src="https://shields.io/badge/CSS3-60A5FA?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" />
+<img src="https://shields.io" alt="CSS3 Logo" />
 </p>
 
 ### AI / Machine Learning
@@ -179,12 +180,12 @@ I am interested in the intersection of **intelligence, software engineering, inf
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cosmicNomad05&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&text_color=C9D1D9" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=cosmicNomad05&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=2DD4BF&currStreakLabel=60A5FA" width="48%" />
 </p>
 
-<p align="center">
+<!--<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cosmicNomad05&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=2DD4BF&currStreakLabel=60A5FA" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicNomad05&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" width="48%" />
-</p>
+</p>-->
 
 ---
 
